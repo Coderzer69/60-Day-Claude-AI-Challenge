@@ -1,5 +1,4 @@
-<img src="./Day-01/ai_personality_portrait.png" width="900">
-
+<img src="./ai_personality_portrait.png" width="900">
 ## Overview
 
 Today I created an AI Personality Profile to understand how I interact with AI tools, learn new skills, and approach building projects.
