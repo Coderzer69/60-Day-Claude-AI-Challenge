@@ -1,3 +1,4 @@
+<img src="./Day-01/ai_personality_portrait.png" width="900">
 
 ## Overview
 
