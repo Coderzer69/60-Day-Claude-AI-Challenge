@@ -26,6 +26,9 @@ A vague prompt often leads to a vague answer. When you clearly define your goal,
 
 A broad, textbook-style explanation of leadership principles. Accurate, but generic and not immediately useful for a specific situation.
 
+<img src="./Weak_Prompt.png" width="900"> 
+
+
 ### Improved Prompt
 
 > I'm a first-time manager at a 10-person startup. Give me 5 practical leadership tips I can apply this week, written in plain language.
