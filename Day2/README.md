@@ -40,6 +40,8 @@ A tailored, actionable list with practical advice such as:
 * Building trust within the team
 * Communicating priorities effectively
 
+  <img src="./ Engineered Prompt.png" width="900"> 
+
 ---
 
 ## Key Benefits of Prompt Engineering
