@@ -29,6 +29,8 @@ A broad, textbook-style explanation of leadership principles. Accurate, but gene
 <img src="./Weak_Prompt.png" width="900"> 
 
 
+
+
 ### Improved Prompt
 
 > I'm a first-time manager at a 10-person startup. Give me 5 practical leadership tips I can apply this week, written in plain language.
