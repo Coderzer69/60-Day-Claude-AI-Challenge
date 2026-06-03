@@ -64,6 +64,9 @@ How can I improve user retention in my mobile app?
 
 The response was useful but general. It focused on common retention strategies such as improving onboarding, collecting feedback, sending notifications, and adding new features.
 
+
+<img src="./Without Any Role.png" width="900"> 
+
 ---
 
 ### Prompt 2 – Founder Persona
@@ -78,6 +81,9 @@ You are a startup founder. How would you validate a new app idea before investin
 
 The response focused on reducing risk before development. It emphasized market research, customer interviews, landing page testing, prototype validation, and willingness-to-pay checks before investing resources.
 
+
+<img src="./Founders Prespective.png" width="900"> 
+
 ---
 
 ### Prompt 3 – Developer Persona
@@ -91,6 +97,9 @@ You are a senior software developer. What are the most important considerations 
 #### Observation
 
 The response became highly technical and focused on system design principles such as scalability, performance, database optimization, security, maintainability, caching, load balancing, and cloud infrastructure.
+
+
+<img src="./Developer Prespective.png" width="900">  
 
 ---
 
