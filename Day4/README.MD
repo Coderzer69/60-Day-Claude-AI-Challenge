@@ -166,6 +166,4 @@ The fastest path to getting hired is not learning every technology available. In
 
 Successfully used Chain-of-Thought Prompting to generate a personalized Full Stack Developer Career Roadmap and identify actionable steps toward becoming job-ready within 2 years.
 
-**Generated using Chain-of-Thought Reasoning**
-
-#60DayClaudeChallenge #Day4 #PromptEngineering #ChainOfThought #AI #ClaudeAI #WebDevelopment #FullStackDeveloper
+<img src="./Day 4.png" width="900"> 
