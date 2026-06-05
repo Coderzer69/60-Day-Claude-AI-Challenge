@@ -91,6 +91,8 @@ The roadmap was:
 * Did not account for available time
 * Focused mainly on learning technologies
 
+<img src="./WithOutContext.png" width="900"> 
+ 
 ---
 
 ### Output B (With Context)
@@ -103,6 +105,8 @@ The roadmap was:
 * Included project-based learning
 * Recommended practical projects
 * Aligned with my career goal
+
+  <img src="./WithContext.png" width="900"> 
 
 ---
 
