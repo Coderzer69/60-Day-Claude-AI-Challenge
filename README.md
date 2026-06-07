@@ -55,7 +55,7 @@ By documenting both successes and failures, I hope to create a transparent learn
 
 ## Final Goal
 
-By Day 60, I want this repository to represent:
+By Day 60, I want this repository to represent:-
 
 * Consistent effort
 * Practical AI experience
