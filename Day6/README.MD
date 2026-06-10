@@ -94,7 +94,7 @@ A resume shouldn't be created once and forgotten. It should be continuously impr
 ## 📸 Documentation
 
 ### Original Resume
-<img src="./ SuperResume.pdf" width="900"> 
+<img src="./SuperResume.png" width="900"> 
 
 ### ATS Analysis
 <img src="./image.png" width="900"> 
