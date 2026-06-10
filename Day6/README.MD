@@ -94,13 +94,13 @@ A resume shouldn't be created once and forgotten. It should be continuously impr
 ## 📸 Documentation
 
 ### Original Resume
-Add screenshot here.
+<img src="./ SuperResume.pdf" width="900"> 
 
 ### ATS Analysis
-Add screenshot here.
+<img src="./image.png" width="900"> 
 
 ### Optimized Resume
-Add screenshot here.
+<img src="./Urvish_Bhardwaj_Resume.pdf" width="900"> 
 
 ---
 
