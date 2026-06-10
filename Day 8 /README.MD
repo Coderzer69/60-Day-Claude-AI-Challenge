@@ -150,7 +150,9 @@ Normall :
 
 
 
-Enhanced:
+Enhanced:## Live Demo
+
+🚀 [Open NutriScope Dashboard](https://your-github-pages-link-here)
 
 
 ---
