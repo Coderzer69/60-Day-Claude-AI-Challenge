@@ -12,6 +12,10 @@ Claude offers multiple models designed for different types of work. Choosing the
 
 Instead of using the same model for every task, select the model that best matches the complexity and importance of the work.
 
+
+
+
+<img src="./Usage_strategy.png" width="900"> 
 ---
 
 ## Claude Models
