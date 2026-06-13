@@ -6,7 +6,7 @@ Today I explored how AI can help improve resume quality and ATS (Applicant Track
 
 The goal was not just to improve the ATS score but also to make the resume more professional, readable, and recruiter-friendly while keeping all information accurate and truthful.
 
----
+--
 
 ## 🎯 What I Did
 
