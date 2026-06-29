@@ -12,7 +12,7 @@ For the next 60 days, I'll be exploring AI tools, building practical projects, e
 
 The purpose of this repository is not to showcase perfection—it's to document growth, consistency, and real-world learning.
 
----
+--
 
 ## Challenge Goals
 
