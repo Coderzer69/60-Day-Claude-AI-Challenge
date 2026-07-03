@@ -4,7 +4,7 @@
 
 ## About
 
-Hi, I'm **Urvish Bhardwaj**.
+Hi, I'm **Urvish Bhardwaj**..
 
 This repository documents my journey through the **ABTalks 60-Day Claude AI Challenge**.
 
