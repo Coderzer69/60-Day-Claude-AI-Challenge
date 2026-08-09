@@ -17,7 +17,7 @@ Instead of using the same model for every task, select the model that best match
 
 <img src="./Usage_strategy.png" width="900"> 
 ---
-
+===
 ## Claude Models
 
 ### Claude Haiku 4.5
